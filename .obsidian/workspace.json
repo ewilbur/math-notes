@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "4e12ddec1a37314d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af682cfbe032a80f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "269ae3633c1a2654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tangent Vector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "103a7742235f1b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d06f47ea98b3399b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ee0c85071ddcfcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tangent Bundle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea7ca207b84ceed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a55a74dec478788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f74e5e31ff2a59b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d70d4a2794fbedb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theorems/Theorem-7b982dfaab31cc66ab2fe1f02454c30d97bcfb41c10a568ab28e1488e3518a54ee9125a36b7d5ea07db06b4ebb0dfc53f93927cf0d4546900ae5f204db631bf8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0764d7aab638af14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#theorem",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfe37dd2a0be799c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c926a76b76be8b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba9aa976bb529caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c22172d129ec645a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a985b996482d2955",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d524cab4b3d6eaf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84f9dbcf05601afc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d06f47ea98b3399b",
+  "lastOpenFiles": [
+    "Vector Space.md",
+    "Linear Space.md",
+    "Tangent Vector.md",
+    "Tangent.md",
+    "Path.md",
+    "Tangent Bundle.md",
+    "Theorem-99dc451ccee854007357acb8126ad34a88cd7253857df1f794634ea87dcfdc381ac9789b99bb0f5239b4a60e799ff2b02ff2c9575eb1b26e842c2d5a36cbfcc8.md",
+    "Vector.md",
+    "Theorem-d87bc5057cf61aea4f54251207bd7e47955a566d497fe5915a88a756be810f7536df652162e8b03b3137898724c132746f19721496e0e90f08b67c9f2bdda5d4.md",
+    "Theorem-4d89ff8ea52eb2437f2dc280e3bdac87c621de63abdec8cbf881f2c6b3c5dc929cea13c9c59da419449c380c609493e73f68087a0a6301d42ef6b993db3a847c.md",
+    "Theorem-52d6c4e7d4ff010b8664406b0a4721f775e7524da1877f9b8b3978601508ffb2c89369423a30556ef08962ce36fa372f9a4011a9f66b07091b6e37e881a7e37b.md",
+    "Group.md",
+    "Theorems/Theorem-ee4944d83f73c56acbba84253d4cd1c6664ab1931d4e6d562a34efc9d392cd37ff978807f16e573cba8512d4b0ce3770b9e6583f7fd20f1c663ad0e723c23518.md",
+    "Theorems/Theorem-ec44b915221013f7836eaa8c9f4ec9665d3133d8ca4ce0db18eb1e6199940b8f6c805d9b359f5a0f230b0f663ddf41b57448f995772417d8df4e95c0ea4a54ee.md",
+    "Theorems/Theorem-e1caee05e6cb6cc3fd3abd8c002cfb2147b4b1762f75ee198d3eac11eb04af2de8f884cc68e6caf932f2dd1a6ad29f37290f4ab0aeb7fda2ca808c748044b28b.md",
+    "Theorems/Theorem-b7308b5734b324c5dcd2a8321f966a8d243d19d3378cbe4fc889d9ab92aa635891380d2e336daf4222ec4c8274db4c68e41bdb765b4fbc466a353d4f01c563b9.md",
+    "Theorems/Theorem-84f9384b767001c0b8c16ccb1dacd76b04ff5e93fa3aee7c9b051ee9b2e0062f0097306d52264f9a8f6a2b46e71fc1031a2ea60d0c445ce733e410db5a014bab.md",
+    "Theorems/Theorem-57ad23007b679a38d0bfb26fca8cc814552add0a85498e71179b1ea2be6d0dc48b45a0d5030efcbcd01776ee981ac2310b65b34668951ec559d3642b6ac87c68.md",
+    "Theorems/Theorem-21c76637d40212cd83f99ad2a470ea630f73785d0e3deaca993c6339a76c1b09f7149e4b6562ea9f92a6484b362a0590525044258e1e6e97ac4f57ffbb2f86bb.md",
+    "Theorems/Theorem-7b982dfaab31cc66ab2fe1f02454c30d97bcfb41c10a568ab28e1488e3518a54ee9125a36b7d5ea07db06b4ebb0dfc53f93927cf0d4546900ae5f204db631bf8.md",
+    "Theorems/The Pasting Lemma.md",
+    "Product of Paths.md",
+    "Theorems/Untitled.canvas",
+    "Path Product.md",
+    "Positive Linear Map.md",
+    "The Homotopy Extension Property.md",
+    "Theorems/Homotopy Relative to a Space.md",
+    "images/Pasted image 20230911074903.png",
+    "images/Pasted image 20230911063944.png",
+    "Pasted image 20230911063845.png",
+    "Pasted image 20230911063841.png",
+    "images",
+    "Theorems",
+    "images/Pasted image 20230910153236.png",
+    "images/Pasted image 20230910153134.png"
+  ]
+}

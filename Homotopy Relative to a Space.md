@@ -1,0 +1,2 @@
+## Definition
+A [[Homotopy|homotopy]] $f_t : X \to Y$ whose restriction to a subspace $A \subset X$ is independent of $t$ is called a _homotopy relative to $A$_, or more concisely, a homotopy $\text{rel } A$. 

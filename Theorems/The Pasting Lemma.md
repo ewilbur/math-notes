@@ -1,0 +1,5 @@
+---
+tags:
+  - theorem
+---
+[[Theorem-21c76637d40212cd83f99ad2a470ea630f73785d0e3deaca993c6339a76c1b09f7149e4b6562ea9f92a6484b362a0590525044258e1e6e97ac4f57ffbb2f86bb|The Pasting Lemma]]

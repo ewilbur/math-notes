@@ -1,0 +1,5 @@
+# Theorem
+Let $f_t : X \to Y$ be a [[Homotopy#Homotopy|homotopy]] and let $\varphi : I \to I$ be [[Continuity|continuous]]. The family of maps $f_{\varphi(t)}$ is a [[Homotopy#Homotopy|homotopy]].
+## Proof
+It needs only to be checked that the family of maps $f_{\varphi(t)}$ is [[Continuity#Continuous|continuous]]. Take $F : X \times I \to Y$ to be the [[Homotopy#Associated Map|associated map]] of $f_t$. Observe that $F(x, \varphi(t)) = f_{\varphi(t)}$. If $U \subseteq Y$ is an [[Topological Space#Open Set|open set]] then $F^{-1}(U) = V \times W$ is open since $F$ is [[Continuity#Continuous|continuous]]. So by the definition of the [[Product Topology|product topology]], $W$ is [[Topological Space#Open Set|open]]. Thus, $\varphi^{-1}(W)$ is [[Topological Space#Open Set|open]] and so is $V \times \varphi^{-1}(W)$. Therefore, the [[Homotopy#Associated Map|associated map]] $F(x, \varphi(t))$ is continuous.
+#theorem 
