@@ -1,0 +1,2 @@
+# Definition
+A *simply connected space* $X$ is a [[Path Connected#Path connected|path connected]] [[Topological Space#Topological space|space]] whose [[Fundamental Group|fundamental group]] is [[Trivial Group|trivial]].

@@ -1,0 +1,2 @@
+# Definition
+Let $f : \mathbb{R}^n \to \mathbb{R}^m$ be [[Differentiable#Differentiable at a Point|differentiable]] at $a \in \mathbb{R}^n$ and let $Df(a)$ be the [[Derivative#Derivative|derivative]] of $f$ at $a.$ The $m \times n$ [[Matrix|matrix]] associated with the [[Linear Map|linear transformation]] $Df(a)$ is called the *Jacobian matrix* of $f$ at $a.$  
